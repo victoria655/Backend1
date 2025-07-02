@@ -1,0 +1,3 @@
+from .students_activities import students_activities_bp
+from .students_fees import students_fees_bp
+from .add_student import add_student_bp
